@@ -1,0 +1,37 @@
+Clave Estado,Estado,Latitud,Longitud,Error
+1,Aguascalientes,21.8818,-102.291,ok
+2,Baja California,29.95,-115.116667,ok
+3,Baja California Sur,25.625057,-111.700684,ok
+4,Campeche,19.32920555,-89.94391483,ok
+5,Coahuila De Zaragoza,27.32622,-102.163658,ok
+6,Colima,19.24997,-103.72714,ok
+7,Chiapas,16.5000001,-92.5000001,ok
+8,Chihuahua,28.5000001,-106.0000001,ok
+9,Ciudad De México,19.4326296,-99.1331785,ok
+10,Durango,24.833333,-104.833333,ok
+11,Guanajuato,20.9876996,-101,ok
+12,Guerrero,17.666667,-100,ok
+13,Hidalgo,20.46916,-98.987251,ok
+14,Jalisco,20.3333331,-103.6666671,ok
+15,Estado De México,19.4839446,-99.6899716,ok
+16,Michoacán De Ocampo,19.207098,-101.878113,ok
+17,Morelos,18.75,-99,ok
+18,Nayarit,21.8438765,-104.8714854,ok
+19,Nuevo León,26.2384363,-99.8873,ok
+20,Oaxaca,17,-96.5,ok
+21,Puebla,18.833333,-98,ok
+22,Querétaro,20.8542575,-99.84756,ok
+23,Quintana Roo,19.6666671,-88.5000001,ok
+24,San Luis Potosí,22.549968,-100.28235,ok
+25,Sinaloa,25.0000001,-107.5000001,ok
+26,Sonora,29.3333331,-110.6666671,ok
+27,Tabasco,17.95078635,-92.48312213,ok
+28,Tamaulipas,24.26694,-98.8362755,ok
+29,Tlaxcala,19.416667,-98.166667,ok
+30,Veracruz De Ignacio De La Llave,19.333333,-96.666667,ok
+31,Yucatán,20.6845957,-88.8755669,ok
+32,Zacatecas,23.593719,-102.992569,ok
+36,Estados Unidos Mexicanos,Sin información,Sin información,ok
+97,No Aplica,Sin información,Sin información,error
+98,Se Ignora,Sin información,Sin información,error
+99,No Especificado,Sin información,Sin información,error
