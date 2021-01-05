@@ -1,4 +1,4 @@
-# Analysis of COVID-19 at Mexico
+# Analysis of COVID-19 situation in Mexico
 
 Mexican authorities hold news conferences every day to provide updates on the number of suspected and confirmed COVID-19 cases in the country. Some of the authorities in charge of the conferences are Dr. Hugo López Gatell, the Vice Minister of Prevention and Health Promotion, and Dr. José Luis Alomía Zegarra, the general director of Epidemiology.
 
